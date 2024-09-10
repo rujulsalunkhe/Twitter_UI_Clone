@@ -1,0 +1,2 @@
+# Twitter_UI_Clone
+ This project is a responsive clone of Twitter's user interface built using Tailwind CSS. The goal of this clone is to replicate the design and layout of the Twitter platform while applying modern web development practices such as utility-first CSS.  Features:  Responsive layout that adapts to various screen sizes. Clean and structured code using Tailwind CSS. Reusable components designed for scalability.
